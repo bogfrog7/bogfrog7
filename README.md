@@ -1,1 +1,1 @@
-Learning Data Science
+Main languages: Python and Javascript 
