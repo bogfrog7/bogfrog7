@@ -1,1 +1,1 @@
-Main languages: Python and Javascript 
+Student learning C, Assembly and Python
